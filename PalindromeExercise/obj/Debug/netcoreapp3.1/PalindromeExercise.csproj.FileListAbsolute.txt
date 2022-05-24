@@ -1,0 +1,13 @@
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.exe
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.deps.json
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.runtimeconfig.json
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.runtimeconfig.dev.json
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.dll
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.pdb
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.csproj.AssemblyReference.cache
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.AssemblyInfoInputs.cache
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.AssemblyInfo.cs
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.csproj.CoreCompileInputs.cache
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.dll
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.pdb
+F:\repos\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.genruntimeconfig.cache
